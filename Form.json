@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Kredit",
+    "desc": "Asuransi pengangkutan memberikan perlindungan terhadap barang seperti emas, plastik, dan barang lainnya mulai dari titik awal pengiriman, transit, hingga ke tujuan akhir pengiriman barang",
+    "slug": "Forms/Kredit"
+  },
+  {
+    "id": 2,
+    "type": "Tanaman",
+    "desc": "Asuransi pengangkutan memberikan perlindungan terhadap barang seperti emas, plastik, dan barang lainnya mulai dari titik awal pengiriman, transit, hingga ke tujuan akhir pengiriman barang",
+    "slug": "Forms/Tanaman"
+  },
+  {
+    "id": 3,
+    "type": "Binatang Peliharaan",
+    "desc": "Asuransi pengangkutan memberikan perlindungan terhadap barang seperti emas, plastik, dan barang lainnya mulai dari titik awal pengiriman, transit, hingga ke tujuan akhir pengiriman barang",
+    "slug": "Forms/Binatang-Peliharaan"
+  },
+  {
+    "id": 4,
+    "type": "Angkut Barang",
+    "desc": "Asuransi pengangkutan memberikan perlindungan terhadap barang seperti emas, plastik, dan barang lainnya mulai dari titik awal pengiriman, transit, hingga ke tujuan akhir pengiriman barang",
+    "slug": "Forms/Angkut-Barang"
+  }
+]
